@@ -1,51 +1,60 @@
-# Edward Bacalso
+# 👋 Hi, I'm Edward Bacalso
 
-### Full-Stack Developer | Systems Consultant | Cybersecurity & Data Analytics
+### Full-Stack Developer · Systems Consultant · Cybersecurity & Data Analytics
 
-I am a Full-Stack Developer and Systems Consultant focused on building
-web-based information systems, APIs, dashboards, and data-driven
-applications.
+I build **web-based information systems, APIs, dashboards, and data-driven applications** with a focus on reliability, security, and practical business solutions.
 
-My work combines **software engineering, database management,
-cybersecurity, data analytics, and information systems development**,
-with experience supporting enterprise and government digital systems.
+My work brings together **software engineering, information systems, database management, cybersecurity, and data analytics** to support digital transformation and organizational decision-making.
+
+<p align="center">
+  <a href="https://edsfreelancingservices.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-181717?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://orcid.org/0009-0005-9849-4129">
+    <img src="https://img.shields.io/badge/ORCID-Researcher%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://github.com/ebacalso77">
+    <img src="https://img.shields.io/badge/GitHub-@ebacalso77-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧭 What I Do
 
-### Software Development
-- PHP
-- Laravel
-- Vue.js
-- JavaScript
-- REST APIs
-- HTML5 / CSS3
-- Tailwind CSS
-- PrimeVue
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Database & Data
-- MySQL
-- MariaDB
-- PostgreSQL
-- Python
-- Jupyter Notebook
-- Data Analysis
-- Data Visualization
+### 💻 Software Engineering
+
+- Full-Stack Development
+- Information Systems
+- REST API Development
+- Database Engineering
+- Web Application Development
+- System Integration
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data & Analytics
+
+- Business Intelligence
+- Data Analytics
 - Predictive Analytics
-- Forecasting
+- Time-Series Forecasting
+- Data Visualization
+- Decision Support Systems
 
-### Systems & Infrastructure
-- Linux
-- Ubuntu Server
-- Apache
-- Git / GitHub
-- Server Administration
-- System Deployment
-- System Monitoring
-- Application Troubleshooting
+</td>
+</tr>
 
-### Cybersecurity
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity
+
 - Web Application Security
 - Vulnerability Assessment
 - Security Auditing
@@ -53,100 +62,181 @@ with experience supporting enterprise and government digital systems.
 - Digital Forensics
 - Security Monitoring
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+### 🖥️ Systems & Infrastructure
 
-Explore my selected projects, systems, research, and professional work through my portfolio.
+- Linux / Ubuntu Server
+- Apache
+- Server Administration
+- System Deployment
+- System Monitoring
+- Application Troubleshooting
 
-👉 **[View My Portfolio](https://edsfreelancingservices.netlify.app/)**
-
-### Selected Work
-- **Smart Procurement and Inventory System (Smart PIS)** — Government procurement and inventory management system
-- **PCIEERD DigiTrack** — Project monitoring and documentation system
-- **Financial Dashboard** — Financial monitoring and analytics dashboard
-- **Other Systems & Research Projects** — Available on my portfolio
-
-> 🔗 **[Explore all projects →](https://edsfreelancingservices.netlify.app/)**
-
-## 📈 Data Analytics & Research
-
-My research and development interests include:
-
-- Business Intelligence
-- Data Analytics
-- Predictive Analytics
-- Time-Series Forecasting
-- Information Systems
-- Procurement Analytics
-- Digital Transformation
-- Cybersecurity
-
-I am particularly interested in applying data analytics and
-information systems to improve organizational decision-making
-and business processes.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔬 Research
+# 🛠️ Technology Stack
 
-My research work focuses on information systems, analytics,
-procurement processes, and technology-enabled organizational
-improvement.
-
-### Research Profiles
-
-- [ORCID](https://orcid.org/0009-0005-9849-4129)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=KPuwbtEAAAAJ)
-
----
-
-## 💻 Technology Stack
+### Backend & Full-Stack Development
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,tailwind" alt="Backend and frontend technologies" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,tailwind,python,mysql,postgres,linux,apache,git,github" />
+<p>
+  <strong>PHP · Laravel · JavaScript · Vue.js · REST APIs · HTML5 · CSS3 · Tailwind CSS · PrimeVue</strong>
+</p>
 
+### Databases & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,python" alt="Database and data technologies" />
+</p>
+
+<p>
+  <strong>MySQL · MariaDB · PostgreSQL · Python · Jupyter Notebook · Data Analysis · Data Visualization</strong>
+</p>
+
+### Systems, Infrastructure & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,apache,git,github" alt="Systems and DevOps technologies" />
+</p>
+
+<p>
+  <strong>Linux · Ubuntu Server · Apache · Git · GitHub · Server Administration · Deployment · Monitoring</strong>
+</p>
+
+### Cybersecurity
+
+<p>
+  <strong>Web Application Security · Vulnerability Assessment · Security Auditing · Information Security · Digital Forensics · Security Monitoring</strong>
 </p>
 
 ---
 
-## 🌐 Portfolio
+# 🚀 Projects & Professional Work
 
-Visit my professional portfolio:
+I develop and support **information systems, dashboards, APIs, analytics solutions, and technology projects** across software engineering, data analytics, cybersecurity, and digital transformation.
 
-**[Eds Freelancing Services](https://edsfreelancingservices.netlify.app/)**
+Instead of duplicating detailed project case studies here, my selected professional work is maintained in my portfolio.
 
-> Freelance Full-Stack Developer & Systems Consultant
+## 🌐 Explore My Work
+
+<p align="center">
+  <a href="https://edsfreelancingservices.netlify.app/">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Explore Portfolio" />
+  </a>
+</p>
+
+### Areas Covered
+
+| Area | Focus |
+|---|---|
+| 🏛️ **Government Information Systems** | Enterprise applications and digital workflows |
+| 📊 **Business Intelligence** | Dashboards, analytics, and decision support |
+| 🔗 **Web Applications & APIs** | Full-stack systems and system integration |
+| 💰 **Management Dashboards** | Financial and operational monitoring |
+| 📦 **Procurement & Inventory** | Digital procurement and inventory management |
+| 🔐 **Cybersecurity** | Security assessment and security auditing |
+| 🔬 **Research & Development** | Information systems, analytics, and technology research |
+
+> **Detailed project descriptions, technologies, features, screenshots, and professional work are available on my portfolio.**
 
 ---
 
-## 📫 Contact
+# 📊 Data Analytics & Research
 
-- **Email:** ebacalso77@gmail.com
-- **GitHub:** [@ebacalso77](https://github.com/ebacalso77)
-- **Portfolio:** [edsfreelancingservices.netlify.app](https://edsfreelancingservices.netlify.app/)
-- **ORCID:** [0009-0005-9849-4129](https://orcid.org/0009-0005-9849-4129)
+My research and development interests focus on using **data and information systems to improve organizational processes, operational efficiency, and decision-making**.
+
+### Areas of Interest
+
+- 📈 Business Intelligence
+- 📊 Data Analytics
+- 🔮 Predictive Analytics
+- 📉 Time-Series Forecasting
+- 📦 Procurement Analytics
+- 🏢 Information Systems
+- 🔄 Digital Transformation
+- 🔐 Cybersecurity
+- ⚙️ Process Improvement
+
+I am particularly interested in combining **information systems, analytics, and process improvement** to develop practical and data-driven organizational solutions.
 
 ---
 
-## 🎯 Professional Focus
+# 🔬 Research
+
+My research work focuses on **information systems, analytics, procurement processes, and technology-enabled organizational improvement**.
+
+### Research Profiles
+
+<p align="center">
+  <a href="https://orcid.org/0009-0005-9849-4129">
+    <img src="https://img.shields.io/badge/ORCID-0009--0005--9849--4129-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=KPuwbtEAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
+</p>
+
+### Research Areas
+
+**Information Systems · Procurement Analytics · Data Analytics · Business Intelligence · Digital Transformation · Technology-Enabled Process Improvement**
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ebacalso77&show_icons=true&hide_border=true&rank_icon=github"
+    height="170"
+    alt="Edward's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebacalso77&layout=compact&hide_border=true"
+    height="170"
+    alt="Edward's top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ebacalso77&hide_border=true"
+    alt="Edward's GitHub streak"
+  />
+</p>
+
+---
+
+# 🎯 Professional Focus
 
 ```text
-Software Engineering
-        │
-        ├── Full-Stack Development
-        ├── Information Systems
-        └── API Development
-                │
-                ▼
-        Data & Analytics
-        ├── Business Intelligence
-        ├── Predictive Analytics
-        └── Forecasting
-                │
-                ▼
-        Cybersecurity
-        ├── Security Assessment
-        ├── Vulnerability Analysis
-        └── Digital Forensics
+                    DIGITAL TRANSFORMATION
+                              │
+              ┌───────────────┴───────────────┐
+              │                               │
+      SOFTWARE ENGINEERING             DATA & ANALYTICS
+              │                               │
+      ├─ Full-Stack Development       ├─ Business Intelligence
+      ├─ Information Systems          ├─ Predictive Analytics
+      ├─ REST API Development         ├─ Forecasting
+      └─ Database Engineering         └─ Data Visualization
+              │                               │
+              └───────────────┬───────────────┘
+                              │
+                       CYBERSECURITY
+                              │
+                   ├─ Security Assessment
+                   ├─ Vulnerability Analysis
+                   ├─ Security Auditing
+                   └─ Digital Forensics
+                              │
+                              ▼
+                  DATA-DRIVEN SOLUTIONS
