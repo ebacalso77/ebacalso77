@@ -195,21 +195,8 @@ My research work focuses on **information systems, analytics, procurement proces
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ebacalso77&show_icons=true&hide_border=true&rank_icon=github"
-    height="170"
-    alt="Edward's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebacalso77&layout=compact&hide_border=true"
-    height="170"
-    alt="Edward's top languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=ebacalso77&hide_border=true"
-    alt="Edward's GitHub streak"
+    alt="Edward's GitHub contribution streak"
   />
 </p>
 
