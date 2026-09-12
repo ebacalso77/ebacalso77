@@ -136,6 +136,18 @@ My research work focuses on **information systems, analytics, procurement proces
   />
 </p>
 
+## 📦 Repository Overview
+
+<!-- REPOSITORY_STATS_START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repositories-0-181717?style=for-the-badge&logo=github" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/Private%20Repositories-0-6C5CE7?style=for-the-badge&logo=github" alt="Private repositories" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-0-2F80ED?style=for-the-badge&logo=github" alt="Total repositories" />
+</p>
+
+> My public GitHub profile contains selected repositories. Additional private repositories include professional, client, and project work that cannot be publicly shared.
+<!-- REPOSITORY_STATS_END -->
+
 ---
 
 # 🎯 Professional Focus
