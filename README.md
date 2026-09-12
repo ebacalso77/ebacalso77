@@ -57,76 +57,17 @@ with experience supporting enterprise and government digital systems.
 
 ## 🚀 Featured Projects
 
-### 📦 Smart Procurement & Inventory System
+Explore my selected projects, systems, research, and professional work through my portfolio.
 
-A web-based information system designed to support procurement,
-inventory management, supplier evaluation, and analytics.
+👉 **[View My Portfolio](https://edsfreelancingservices.netlify.app/)**
 
-**Technologies:**
-`Laravel` `Vue 3` `PrimeVue` `Tailwind CSS` `MariaDB` `Python`
+### Selected Work
+- **Smart Procurement and Inventory System (Smart PIS)** — Government procurement and inventory management system
+- **PCIEERD DigiTrack** — Project monitoring and documentation system
+- **Financial Dashboard** — Financial monitoring and analytics dashboard
+- **Other Systems & Research Projects** — Available on my portfolio
 
-**Key Areas:**
-- Procurement management
-- Inventory management
-- Supplier performance evaluation
-- Procurement analytics
-- Forecasting
-- Role-based access control
-- Reporting and dashboards
-
-> Project implementation details and source code are limited where
-> required by organizational confidentiality.
-
----
-
-### 📊 Financial & Management Dashboard
-
-A web-based dashboard for monitoring financial and management data
-through interactive visualizations and reporting.
-
-**Technologies:**
-`Laravel` `Vue 3` `MariaDB` `JavaScript`
-
-**Key Areas:**
-- Data visualization
-- Financial monitoring
-- Interactive dashboards
-- Data filtering
-- Reporting
-
----
-
-### 📋 Project Monitoring & Documentation System
-
-A web-based platform for project monitoring, documentation,
-and information management.
-
-**Technologies:**
-`Laravel` `Vue 3` `PrimeVue` `MariaDB`
-
-**Key Areas:**
-- Project monitoring
-- Documentation management
-- User access control
-- Reporting
-- Records management
-
----
-
-### 🔐 Security Auditing & Investigation Tools
-
-A collection of tools and experiments related to cybersecurity,
-security auditing, investigation, and system monitoring.
-
-**Areas:**
-- Security assessment
-- Vulnerability analysis
-- Log analysis
-- Digital investigation
-- Linux security
-- System monitoring
-
----
+> 🔗 **[Explore all projects →](https://edsfreelancingservices.netlify.app/)**
 
 ## 📈 Data Analytics & Research
 
