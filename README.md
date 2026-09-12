@@ -45,7 +45,9 @@ My work brings together **software engineering, information systems, database ma
 ### Systems, Infrastructure & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,apache,git,github" alt="Systems and DevOps technologies" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Linux and Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=apache" alt="Apache" />
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" />
 </p>
 
 <p>
