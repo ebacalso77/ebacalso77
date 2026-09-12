@@ -25,21 +25,21 @@ My work brings together **software engineering, information systems, database ma
 ### Backend & Full-Stack Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,tailwind,bootstrap,r" alt="Backend and frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,tailwind,bootstrap" alt="Backend and frontend technologies" />
 </p>
 
 <p>
-  <strong>PHP · Laravel · JavaScript · Vue.js · REST APIs · HTML5 · CSS3 · Tailwind CSS · Bootstrap · PrimeVue · R</strong>
+  <strong>PHP · Laravel · JavaScript · Vue.js · REST APIs · HTML5 · CSS3 · Tailwind CSS · Bootstrap · PrimeVue </strong>
 </p>
 
 ### Databases & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,python" alt="Database and data technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,python,r" alt="Database and data technologies" />
 </p>
 
 <p>
-  <strong>MySQL · MariaDB · PostgreSQL · Python · Jupyter Notebook · Data Analysis · Data Visualization</strong>
+  <strong>MySQL · MariaDB · PostgreSQL · Python · R · Jupyter Notebook · Data Analysis · Data Visualization</strong>
 </p>
 
 ### Systems, Infrastructure & DevOps
