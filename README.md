@@ -156,7 +156,7 @@ improvement.
 ### Research Profiles
 
 - [ORCID](https://orcid.org/0009-0005-9849-4129)
-- [Google Scholar](#)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=KPuwbtEAAAAJ)
 
 ---
 
@@ -167,14 +167,6 @@ improvement.
 <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,tailwind,python,mysql,postgres,linux,apache,git,github" />
 
 </p>
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebacalso77&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebacalso77&layout=compact&hide_border=true)
 
 ---
 
