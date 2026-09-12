@@ -204,26 +204,99 @@ My research work focuses on **information systems, analytics, procurement proces
 
 # 🎯 Professional Focus
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-2F80ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/INFORMATION%20SYSTEMS-6C5CE7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATA%20%26%20ANALYTICS-00B894?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-D63031?style=for-the-badge" />
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 💻 Software Engineering
+
+Building scalable and maintainable web-based applications and enterprise systems.
+
+- Full-Stack Development
+- Laravel & Vue.js
+- REST API Development
+- Database Design
+- System Integration
+- Application Architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏢 Information Systems
+
+Designing and implementing systems that improve organizational processes and operations.
+
+- Business Process Improvement
+- Enterprise Information Systems
+- Workflow Automation
+- Digital Transformation
+- System Analysis & Design
+- Management Information Systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📊 Data & Analytics
+
+Transforming operational data into insights that support better decision-making.
+
+- Business Intelligence
+- Data Analytics
+- Predictive Analytics
+- Time-Series Forecasting
+- Data Visualization
+- Procurement Analytics
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔐 Cybersecurity
+
+Applying security principles throughout application development and system operations.
+
+- Web Application Security
+- Vulnerability Assessment
+- Security Auditing
+- Information Security
+- Digital Forensics
+- Security Monitoring
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Professional Direction
+
+My work sits at the intersection of **software engineering, information systems, data analytics, and cybersecurity**.
+
 ```text
                     DIGITAL TRANSFORMATION
-                              │
-              ┌───────────────┴───────────────┐
-              │                               │
-      SOFTWARE ENGINEERING             DATA & ANALYTICS
-              │                               │
-      ├─ Full-Stack Development       ├─ Business Intelligence
-      ├─ Information Systems          ├─ Predictive Analytics
-      ├─ REST API Development         ├─ Forecasting
-      └─ Database Engineering         └─ Data Visualization
-              │                               │
-              └───────────────┬───────────────┘
-                              │
-                       CYBERSECURITY
-                              │
-                   ├─ Security Assessment
-                   ├─ Vulnerability Analysis
-                   ├─ Security Auditing
-                   └─ Digital Forensics
-                              │
-                              ▼
-                  DATA-DRIVEN SOLUTIONS
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+   SOFTWARE            INFORMATION          DATA &
+   ENGINEERING           SYSTEMS           ANALYTICS
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                            ▼
+                     CYBERSECURITY
+                            │
+                            ▼
+                 SECURE & DATA-DRIVEN
+                     DIGITAL SYSTEMS
