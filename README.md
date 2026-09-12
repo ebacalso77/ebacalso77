@@ -20,66 +20,6 @@ My work brings together **software engineering, information systems, database ma
 
 ---
 
-## 🧭 What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-- Full-Stack Development
-- Information Systems
-- REST API Development
-- Database Engineering
-- Web Application Development
-- System Integration
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Data & Analytics
-
-- Business Intelligence
-- Data Analytics
-- Predictive Analytics
-- Time-Series Forecasting
-- Data Visualization
-- Decision Support Systems
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Cybersecurity
-
-- Web Application Security
-- Vulnerability Assessment
-- Security Auditing
-- Information Security
-- Digital Forensics
-- Security Monitoring
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ Systems & Infrastructure
-
-- Linux / Ubuntu Server
-- Apache
-- Server Administration
-- System Deployment
-- System Monitoring
-- Application Troubleshooting
-
-</td>
-</tr>
-</table>
-
----
-
 # 🛠️ Technology Stack
 
 ### Backend & Full-Stack Development
@@ -211,13 +151,15 @@ My research work focuses on **information systems, analytics, procurement proces
   <img src="https://img.shields.io/badge/CYBERSECURITY-D63031?style=for-the-badge" />
 </p>
 
+My professional work combines four complementary areas: **software engineering, information systems, data analytics, and cybersecurity**.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ## 💻 Software Engineering
 
-Building scalable and maintainable web-based applications and enterprise systems.
+Building scalable and maintainable web applications and enterprise systems.
 
 - Full-Stack Development
 - Laravel & Vue.js
@@ -232,13 +174,13 @@ Building scalable and maintainable web-based applications and enterprise systems
 
 ## 🏢 Information Systems
 
-Designing and implementing systems that improve organizational processes and operations.
+Designing and implementing information systems that improve organizational processes, workflows, and operations.
 
 - Business Process Improvement
 - Enterprise Information Systems
 - Workflow Automation
 - Digital Transformation
-- System Analysis & Design
+- Systems Analysis & Design
 - Management Information Systems
 
 </td>
@@ -249,7 +191,7 @@ Designing and implementing systems that improve organizational processes and ope
 
 ## 📊 Data & Analytics
 
-Transforming operational data into insights that support better decision-making.
+Transforming operational data into actionable insights for planning, monitoring, and decision-making.
 
 - Business Intelligence
 - Data Analytics
@@ -264,7 +206,7 @@ Transforming operational data into insights that support better decision-making.
 
 ## 🔐 Cybersecurity
 
-Applying security principles throughout application development and system operations.
+Integrating security practices across application development, infrastructure, and system operations.
 
 - Web Application Security
 - Vulnerability Assessment
@@ -276,27 +218,3 @@ Applying security principles throughout application development and system opera
 </td>
 </tr>
 </table>
-
----
-
-### 🚀 Professional Direction
-
-My work sits at the intersection of **software engineering, information systems, data analytics, and cybersecurity**.
-
-```text
-                    DIGITAL TRANSFORMATION
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-          ▼                 ▼                 ▼
-   SOFTWARE            INFORMATION          DATA &
-   ENGINEERING           SYSTEMS           ANALYTICS
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            │
-                            ▼
-                     CYBERSECURITY
-                            │
-                            ▼
-                 SECURE & DATA-DRIVEN
-                     DIGITAL SYSTEMS
