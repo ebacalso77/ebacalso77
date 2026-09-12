@@ -62,9 +62,11 @@ My work brings together **software engineering, information systems, database ma
 
 # 🚀 Projects & Professional Work
 
-I develop and support **information systems, dashboards, APIs, analytics solutions, and technology projects** across software engineering, data analytics, cybersecurity, and digital transformation.
+I design, develop, deploy, and maintain **information systems, web
+applications, APIs, dashboards, and data-driven solutions** for
+organizational and operational needs.
 
-Instead of duplicating detailed project case studies here, my selected professional work is maintained in my portfolio.
+Selected professional work and project case studies are available in my portfolio.
 
 ## 🌐 Explore My Work
 
@@ -92,21 +94,13 @@ Instead of duplicating detailed project case studies here, my selected professio
 
 # 📊 Data Analytics & Research
 
-My research and development interests focus on using **data and information systems to improve organizational processes, operational efficiency, and decision-making**.
+I apply data analytics and information systems to understand operational
+patterns, improve organizational processes, and support evidence-based
+decision-making.
 
-### Areas of Interest
-
-- 📈 Business Intelligence
-- 📊 Data Analytics
-- 🔮 Predictive Analytics
-- 📉 Time-Series Forecasting
-- 📦 Procurement Analytics
-- 🏢 Information Systems
-- 🔄 Digital Transformation
-- 🔐 Cybersecurity
-- ⚙️ Process Improvement
-
-I am particularly interested in combining **information systems, analytics, and process improvement** to develop practical and data-driven organizational solutions.
+My interests include **business intelligence, predictive analytics,
+time-series forecasting, procurement analytics, and technology-enabled
+process improvement**.
 
 ---
 
